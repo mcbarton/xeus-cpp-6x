@@ -1,0 +1,123 @@
+{
+  "prefix": "/",
+  "packages": [
+    {
+      "name": "xeus-lite-static",
+      "version": "5.0.0",
+      "build": "h2d46287_0",
+      "filename_stem": "xeus-lite-static-5.0.0-h2d46287_0",
+      "filename": "xeus-lite-static-5.0.0-h2d46287_0.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [
+        "emscripten-abi 6.0.8",
+        "xeus >=6.0.5,<6.1.0a0"
+      ],
+      "subdir": "emscripten-wasm32"
+    },
+    {
+      "name": "xeus",
+      "version": "6.0.6",
+      "build": "h2d46287_0",
+      "filename_stem": "xeus-6.0.6-h2d46287_0",
+      "filename": "xeus-6.0.6-h2d46287_0.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [
+        "emscripten-abi 6.0.8",
+        "nlohmann_json-abi 3.12.0"
+      ],
+      "subdir": "emscripten-wasm32"
+    },
+    {
+      "name": "pugixml-static",
+      "version": "1.16",
+      "build": "h2d46287_0",
+      "filename_stem": "pugixml-static-1.16-h2d46287_0",
+      "filename": "pugixml-static-1.16-h2d46287_0.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [
+        "emscripten-abi 6.0.8"
+      ],
+      "subdir": "emscripten-wasm32"
+    },
+    {
+      "name": "cpp-argparse",
+      "version": "3.2",
+      "build": "h2d46287_0",
+      "filename_stem": "cpp-argparse-3.2-h2d46287_0",
+      "filename": "cpp-argparse-3.2-h2d46287_0.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [
+        "emscripten-abi 6.0.8"
+      ],
+      "subdir": "emscripten-wasm32"
+    },
+    {
+      "name": "emscripten-abi",
+      "version": "6.0.8",
+      "build": "h267e887_3",
+      "filename_stem": "emscripten-abi-6.0.8-h267e887_3",
+      "filename": "emscripten-abi-6.0.8-h267e887_3.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [],
+      "subdir": "noarch"
+    },
+    {
+      "name": "nlohmann_json-abi",
+      "version": "3.12.0",
+      "build": "h0f90c79_2",
+      "filename_stem": "nlohmann_json-abi-3.12.0-h0f90c79_2",
+      "filename": "nlohmann_json-abi-3.12.0-h0f90c79_2.tar.gz",
+      "channel": "https://prefix.dev/conda-forge",
+      "depends": [],
+      "subdir": "noarch"
+    },
+    {
+      "name": "doctest",
+      "version": "2.5.3",
+      "build": "h2d46287_0",
+      "filename_stem": "doctest-2.5.3-h2d46287_0",
+      "filename": "doctest-2.5.3-h2d46287_0.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [
+        "emscripten-abi 6.0.8"
+      ],
+      "subdir": "emscripten-wasm32"
+    },
+    {
+      "name": "nlohmann_json",
+      "version": "3.12.0",
+      "build": "h2d46287_0",
+      "filename_stem": "nlohmann_json-3.12.0-h2d46287_0",
+      "filename": "nlohmann_json-3.12.0-h2d46287_0.tar.gz",
+      "channel": "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+      "depends": [
+        "emscripten-abi 6.0.8"
+      ],
+      "subdir": "emscripten-wasm32"
+    }
+  ],
+  "mounts": [
+    {
+      "name": "mount_0.tar.gz",
+      "filename": "mount_0.tar.gz"
+    },
+    {
+      "name": "mount_1.tar.gz",
+      "filename": "mount_1.tar.gz"
+    }
+  ],
+  "specs": [
+    "emscripten-abi==6.0.8",
+    "nlohmann_json",
+    "nlohmann_json-abi",
+    "xeus-lite-static",
+    "xeus",
+    "cpp-argparse",
+    "pugixml-static",
+    "doctest"
+  ],
+  "channels": [
+    "https://prefix.dev/emscripten-forge-bot/emscripten-forge-6x",
+    "https://prefix.dev/conda-forge"
+  ]
+}

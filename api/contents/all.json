@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-16T08:40:51.682023Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-16T08:40:51.682023Z",
+      "mimetype": null,
+      "name": "tinyraytracer.ipynb",
+      "path": "tinyraytracer.ipynb",
+      "size": 3159824,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-16T08:40:51.675830Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-16T08:40:51.675830Z",
+      "mimetype": "image/png",
+      "name": "marie.png",
+      "path": "marie.png",
+      "size": 108937,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-16T08:40:51.686888Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-16T08:40:51.686888Z",
+      "mimetype": null,
+      "name": "xeus-cpp-lite-demo.ipynb",
+      "path": "xeus-cpp-lite-demo.ipynb",
+      "size": 849488,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-16T08:40:51.673927Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-16T08:40:51.673927Z",
+      "mimetype": "audio/x-wav",
+      "name": "audio.wav",
+      "path": "audio.wav",
+      "size": 513244,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-16T08:45:50.382247Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-16T08:45:50.400748Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
